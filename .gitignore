@@ -1,3 +1,6 @@
+# iml files
+*.iml
+
 # Scala
 *.class
 *.log
@@ -53,3 +56,10 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/spark-kafka-direct-stream.iml
+.idea/vcs.xml
+/.idea/
